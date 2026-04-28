@@ -110,4 +110,4 @@ MIT — feel free to fork, adapt, and share.
 
 ## Contact
 
-If you have questions or want to discuss the approach, feel free to reach out on [LinkedIn](https://linkedin.com/in/your-profile).
+If you have questions or want to discuss the approach, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/deunich/).
